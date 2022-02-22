@@ -1,4 +1,4 @@
-# This is an lobby repo
+# 42cursus
 
 This is all the links to all my public repos with 42 projects:
 
